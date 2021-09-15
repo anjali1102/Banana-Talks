@@ -12,7 +12,7 @@ h1 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 10%;
+  width: 11.5%;
 }
 textarea {
   width: 80%;
@@ -24,7 +24,19 @@ textarea {
 #btn-translate {
   margin: 0 auto;
   display: block;
+  background-color: brown; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-decoration: none;
+  font-size: 16px;
+  transition-duration: 0.4s;
 }
+#btn-translate:hover {
+  background-color: #FFB6C1; 
+  color: white;
+}
+
 #output-heading {
   font-size: larger;
   text-align: center;
