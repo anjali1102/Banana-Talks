@@ -1,4 +1,4 @@
 # Banana-Talks
 
 LIVE PROJECT
-https://anjali1102.github.io/Banana-Talks/
+https://romantic-ramanujan-1d23d4.netlify.app/
